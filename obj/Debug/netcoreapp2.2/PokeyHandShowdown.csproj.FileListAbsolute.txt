@@ -1,0 +1,11 @@
+H:\FL\iQmatrix\PokeyHandShowdown\PokeyHandShowdown\bin\Debug\netcoreapp2.2\PokeyHandShowdown.deps.json
+H:\FL\iQmatrix\PokeyHandShowdown\PokeyHandShowdown\bin\Debug\netcoreapp2.2\PokeyHandShowdown.runtimeconfig.json
+H:\FL\iQmatrix\PokeyHandShowdown\PokeyHandShowdown\bin\Debug\netcoreapp2.2\PokeyHandShowdown.runtimeconfig.dev.json
+H:\FL\iQmatrix\PokeyHandShowdown\PokeyHandShowdown\bin\Debug\netcoreapp2.2\PokeyHandShowdown.dll
+H:\FL\iQmatrix\PokeyHandShowdown\PokeyHandShowdown\bin\Debug\netcoreapp2.2\PokeyHandShowdown.pdb
+H:\FL\iQmatrix\PokeyHandShowdown\PokeyHandShowdown\obj\Debug\netcoreapp2.2\PokeyHandShowdown.csprojAssemblyReference.cache
+H:\FL\iQmatrix\PokeyHandShowdown\PokeyHandShowdown\obj\Debug\netcoreapp2.2\PokeyHandShowdown.csproj.CoreCompileInputs.cache
+H:\FL\iQmatrix\PokeyHandShowdown\PokeyHandShowdown\obj\Debug\netcoreapp2.2\PokeyHandShowdown.AssemblyInfoInputs.cache
+H:\FL\iQmatrix\PokeyHandShowdown\PokeyHandShowdown\obj\Debug\netcoreapp2.2\PokeyHandShowdown.AssemblyInfo.cs
+H:\FL\iQmatrix\PokeyHandShowdown\PokeyHandShowdown\obj\Debug\netcoreapp2.2\PokeyHandShowdown.dll
+H:\FL\iQmatrix\PokeyHandShowdown\PokeyHandShowdown\obj\Debug\netcoreapp2.2\PokeyHandShowdown.pdb
