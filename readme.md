@@ -2,6 +2,7 @@
 This allows minimum 2 and maximum 9 players.  
 The validations in input parameters are not implemented.  
 The input validation for repeating the same card in same suit is not implemented.  
+Card Suit and Rank have to be in capital letters.
 The player names validation is not implemented.  
 The two pairs scenario is not considered.  
 Logging is not implemented.  
